@@ -1,7 +1,7 @@
 Update Unifi Controller on Raspberry PI:
   #sudo apt-get update && sudo apt-cache policy unifi
   #sudo apt-get install --only-upgrade unifi
-  *Ensure you hvae a backup of the unifi contoller and select "Yes"*
+  *Ensure you have a backup of the unifi contoller and select "Yes"*
 
 *Remember to keep Pi up-to-date as well for security reasons:*
   #sudo apt-get update
